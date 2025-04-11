@@ -1,0 +1,1 @@
+This is the Simplest setup using Nodejs , Express ,Passport and Dotenv with Google credentials you can create your own Project and get credentails by visiting [Google Console](https://console.cloud.google.com/)
